@@ -6,4 +6,14 @@ First goal is to understand the typical user journey on CoolTShirts website, by 
 
 Second goal is campaign budget optimisation, based on the findings from the first goal. CoolTShirt seek advise on which five campaigns to reinvest in.
 
+The repository includes a sqlite db project file and a PowerPoint presentation.
+
+Please feel free to explore and share. Any feedback is much appreciated.
+
+Enjoy!
+
+Vlad
+
+
+
 
